@@ -5,5 +5,7 @@ public class Ejercicio2 {
         System.out.println("hola Mundo");
         System.out.println("Hola Mundito");
         System.out.println("Hola Mundo2");
+        System.out.println("Hola Mundo2");
+        System.out.println("Hola Mundo2");
     }
 }
