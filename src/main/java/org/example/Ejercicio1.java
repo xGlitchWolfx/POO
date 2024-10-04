@@ -10,5 +10,6 @@ public class Ejercicio1 {
             System.out.println("PRIMERA PRACTICA");
             System.out.println("Hola Github");
             System.out.println("Hola Mundito");
+        System.out.println("Hola Mundo2");
     }
 }
