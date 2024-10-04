@@ -7,7 +7,6 @@ public class Ejercicio1 {
         if (edad >=18){
             System.out.println("Usted puede realizar el proceso de votaciones en el ecuador");
         }
-
             System.out.println("PRIMERA PRACTICA");
             System.out.println("Hola Github");
             System.out.println("Hola Mundito");
